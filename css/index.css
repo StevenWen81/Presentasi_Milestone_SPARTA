@@ -228,6 +228,12 @@ img {
     height: 150%;
 }
 
+.hoverinfo{
+  color: #797373;
+  font-size: 20px;
+  margin-bottom: auto; 
+}
+
 .btn{
     border: none;
     outline: none;
