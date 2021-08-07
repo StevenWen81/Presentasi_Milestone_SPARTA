@@ -1,5 +1,5 @@
 # Presentasi_Milestone_SPARTA
-Wadah presentasi "Kelompok 08 Milestone SPATA 2020"
+Wadah presentasi **Kelompok 08 Milestone SPATA 2020**
 - Kelompok 08 Buddies 1
 - Kelompok 09 Buddies 2
 <br/>
